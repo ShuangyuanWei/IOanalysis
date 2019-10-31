@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572478479145.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B208EBE3",
+    "lastKnownWriteTime" : 1572478864,
+    "last_content_update" : 1572478864740,
+    "path" : "~/IOanalysis/R/eis_io_process.R",
+    "project_path" : "R/eis_io_process.R",
+    "properties" : {
+        "cursorPosition" : "151,23",
+        "scrollLine" : "106"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
